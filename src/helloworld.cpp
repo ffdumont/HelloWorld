@@ -8,6 +8,6 @@ Tous les programmes commencent par la fonction main
 */
 int main()
 {
-    cout << "Hello world!" << endl; // Affiche un message
+    cout << "Hello world !" << endl; // Affiche un message
     return 0; // Termine la fonction main et donc le programme
 }
